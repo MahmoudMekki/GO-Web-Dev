@@ -1,0 +1,5 @@
+steps to create a TCP server :
+ 1- Listen
+ 2- Accept // gives you the connection
+ 3- go ahead read and write
+ 

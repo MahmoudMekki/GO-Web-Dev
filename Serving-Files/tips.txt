@@ -1,0 +1,6 @@
+Serving files with :-
+ -io.Copy()
+ -ServeContent & servefiles
+ -filServer
+ -filServer & stripprefix
+ 

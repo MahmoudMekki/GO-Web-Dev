@@ -1,0 +1,7 @@
+runtime: project-289813
+
+
+handlers:
+- url: /.*
+  script: auto
+  secure: always
